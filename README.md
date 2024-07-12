@@ -4,15 +4,6 @@
 
 <p align="center"><a href="https://replit.com/@Itz-zaid/Generator"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=web" width="220" height="38.45"/></a></p>
 
-# Free Tutorials/Hosting Methods 
-
-<p align="center">Releasehub </p>
-
-<p align="center"><a href="https://youtu.be/IDDyldUHOKo"> <img src="https://img.shields.io/badge/Releasehub%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
-
-<p align="center">Railway </p>
-
-<p align="center"><a href="https://youtu.be/Uzof6djzD-M"> <img src="https://img.shields.io/badge/Railway%20Deploy-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p> 
 
 <p align="center">Scalingo </p>
 
